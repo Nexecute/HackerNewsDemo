@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.has-error{
+  
+  width: 100%;
+  margin-top: 0.25 rem;
+  font-size: 80%;
+  color: #f31026;
+
+}
+
+.styles{
+    margin-right: 500px;
+    margin-left: 480px;
+    margin-top: 40px;
+}
